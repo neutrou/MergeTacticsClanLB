@@ -4,7 +4,6 @@ import requests as rq
 import tqdm
 from dotenv import load_dotenv
 
-# CLANS=["9G20PG", "QRPY0VCP", "G0LQ9U2J", "GU9P0U8P"]
 FIELDS=["tag", "name"]
 
 def getClans():
