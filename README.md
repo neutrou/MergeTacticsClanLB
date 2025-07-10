@@ -56,7 +56,7 @@ pip install requests python-dotenv tqdm
 
 ### Step 1: Fetch Clan Data
 
-Run the following script to pull member data from all clans defined in `.env`. This will generate or overwrite `data.json`.
+Run the following script to pull member data from all clans defined in `.env`. This will generate or overwrite `members.json`.
 
 ```bash
 python fetch.py
