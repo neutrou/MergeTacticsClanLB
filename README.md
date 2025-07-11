@@ -38,6 +38,7 @@ CLANS='["clantag1", "clantag2", "clantag3", "clantag4"]'
 
 > 📝 `KEY` is your API access key.  
 > 📝 `CLANS` must be a valid JSON array of clan tags.
+> The # character must be removed from the clan tags
 
 ### 3. Install Dependencies
 
